@@ -5,6 +5,15 @@
   color: white;
 }
 
+.recipe li {
+  margin: 10px;
+  background-color: lightpink;
+  border-style: outset;
+}
 .recipe a {
   color: whitesmoke;
+  background-color: lightpink;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
 }
